@@ -1,0 +1,9 @@
+D:\MyDocs\TEST TEST\AeraExiter\bin\Debug\AeraExiter.exe
+D:\MyDocs\TEST TEST\AeraExiter\bin\Debug\AeraExiter.pdb
+D:\MyDocs\TEST TEST\AeraExiter\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyDocs\TEST TEST\AeraExiter\obj\x86\Debug\AeraExiter.Main.resources
+D:\MyDocs\TEST TEST\AeraExiter\obj\x86\Debug\AeraExiter.Properties.Resources.resources
+D:\MyDocs\TEST TEST\AeraExiter\obj\x86\Debug\ResGen.read.1.tlog
+D:\MyDocs\TEST TEST\AeraExiter\obj\x86\Debug\ResGen.write.1.tlog
+D:\MyDocs\TEST TEST\AeraExiter\obj\x86\Debug\AeraExiter.exe
+D:\MyDocs\TEST TEST\AeraExiter\obj\x86\Debug\AeraExiter.pdb
